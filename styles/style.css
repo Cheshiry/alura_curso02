@@ -20,10 +20,12 @@ body{
 
 .princial{
     background-image: url("/imagens/Background.png");
-    background-repeat: no-repeat;
+
+}
+    /*    background-repeat: no-repeat;
     background-size: contain;
 }
 
 .conteiner{
     height: 100vh;
-}
+}*/
