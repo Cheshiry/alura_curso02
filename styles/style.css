@@ -16,7 +16,7 @@ body {
 }
 
 .principal {
-    background-image: url("https://github.com/Cheshiry/alura_curso02/blob/main/imagens/Background.png");
+    background-image: url("https://raw.github.com/Cheshiry/alura_curso02/blob/main/imagens/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
